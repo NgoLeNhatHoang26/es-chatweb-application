@@ -1,0 +1,18 @@
+{
+    "compilerOptions": {
+        "outDir": "dist",
+        "target": "es2015",
+        "lib": [
+            "ES2015"
+        ],
+        "skipLibCheck": true,
+        "moduleResolution":"bundler"
+    },
+    "include": [
+        "src/*"
+    ],
+    "exclude": [
+        "node_modules",
+        "dist"
+    ]
+}
