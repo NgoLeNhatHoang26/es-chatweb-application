@@ -20,7 +20,7 @@ Cho phép người dùng nhắn tin cá nhân, tạo nhóm chat, và quản lý 
 
 1. Clone repo:
    ```bash
-   git clone https://github.com/NgoLeNhatHoang26/es-chat-web-application.
+   git clone https://github.com/NgoLeNhatHoang26/es-chatweb-application.
    cd es-chat-web-application
 
 ## Giao diện Chat App
